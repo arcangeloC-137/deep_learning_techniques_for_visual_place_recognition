@@ -35,4 +35,4 @@ After cloning this repository, is recommended to first organize the code and the
 The [datasets_vg](https://github.com/gmberton/datasets_vg) can be used to download the datasets used for this project, while the [benchmarking_vg](https://github.com/gmberton/deep-visual-geo-localization-benchmark) can be used to download the vanilla version of the code.
 
 ---
-Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo and Scoleri Maria Rosa.
+Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
