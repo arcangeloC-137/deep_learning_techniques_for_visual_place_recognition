@@ -1,0 +1,5 @@
+einops==0.4.1
+faiss-cpu==1.7.2
+timm==0.5.4
+torchscan==0.1.1
+transformers==4.19.2
