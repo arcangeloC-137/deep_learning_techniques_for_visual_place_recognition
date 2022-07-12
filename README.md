@@ -9,7 +9,7 @@ night images with the use of UNIT networks. This last technique in particular al
 
 ---
 
-This repository contains the code for our project "*Deep Learning Techniques for Visual Place Recognition*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22.
+This repository contains the code for our project "*Image Retrieval for Visual Geolocalization*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22.
 
 ---
 
