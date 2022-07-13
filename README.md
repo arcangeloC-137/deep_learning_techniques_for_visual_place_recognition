@@ -34,5 +34,17 @@ After cloning this repository, is recommended to first organize the code and the
 ```
 The [datasets_vg](https://github.com/gmberton/datasets_vg) can be used to download the datasets used for this project, while the [benchmarking_vg](https://github.com/gmberton/deep-visual-geo-localization-benchmark) can be used to download the vanilla version of the code.
 
+## Running the Experiments
+The work is composed by the following steps:
+1. Preliminary baseline experiments and dataset visualization.
+2. Data Augmentation for Night Domain robustness
+    2.1 'Smart' Data Augmentation
+    2.2 Synthetic Images creation
+3. Data Augmentation for Occlusions and Perspective Changes
+4. Ensembles
+5. Multi-scale Testing
+
+
+For the sake of simplicity we provide a complete guide to run the the whole experiments in the file **deep_learning_techniques_for_visual_place_recognition.ipynb**.
 ---
 Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
