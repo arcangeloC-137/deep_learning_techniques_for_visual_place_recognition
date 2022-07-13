@@ -236,7 +236,7 @@ class TripletsDataset(BaseDataset):
 
         return img_different_perspective
 
-    def add_occlusions(self, img, probability=.8):
+    def add_occlusions(self, img, probability=.7):
 
         img_with_occlusions = transforms.RandomErasing(p=probability, scale=(.05,.08), ratio=(.3,5.3), value='random').forward(img)
 
