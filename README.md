@@ -38,8 +38,8 @@ The [datasets_vg](https://github.com/gmberton/datasets_vg) can be used to downlo
 The work is composed by the following steps:
 1. Preliminary baseline experiments and dataset visualization.
 2. Data Augmentation for Night Domain robustness
-    2.1 'Smart' Data Augmentation
-    2.2 Synthetic Images creation
+   - 'Smart' Data Augmentation
+   - Synthetic Images creation
 3. Data Augmentation for Occlusions and Perspective Changes
 4. Ensembles
 5. Multi-scale Testing
