@@ -9,7 +9,7 @@ night images with the use of UNIT networks. This last technique in particular al
 
 ---
 
-This repository contains the code for our project "*Image Retrieval for Visual Geolocalization*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22. Please refere to the [report]() for a complete description of the expertiment.
+This repository contains the code for our project "*Image Retrieval for Visual Geolocalization*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22. Please refer to the relative [report]() for a complete description of the expertiment.
 
 ---
 
