@@ -36,16 +36,13 @@ The [datasets_vg](https://github.com/gmberton/datasets_vg) can be used to downlo
 
 ## Running the Experiments
 The work is composed by the following steps:
-1. Preliminary baseline experiments and dataset visualization.
+1. Preliminary baseline experiments and dataset visualization
 2. Data Augmentation for Night Domain robustness:
    - 'Smart' Data Augmentation
    - Synthetic Images creation
 3. Data Augmentation for Occlusions and Perspective Changes
 4. Ensembles
 5. Multi-scale Testing
-
-
-For the sake of simplicity we provide a complete guide to run the the whole experiments in the followinf file:
-**deep_learning_techniques_for_visual_place_recognition.ipynb**.
+For the sake of simplicity we provide a complete guide to run the the whole experiments in [deep_learning_techniques_for_visual_place_recognition.ipynb]().
 ---
 Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
