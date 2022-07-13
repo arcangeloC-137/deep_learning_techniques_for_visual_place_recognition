@@ -9,7 +9,7 @@ night images with the use of UNIT networks. This last technique in particular al
 
 ---
 
-This repository contains the code for our project "*Image Retrieval for Visual Geolocalization*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22. Please refer to the relative [report]() for a complete description of the expertiment.
+This repository contains the code for our project "*Image Retrieval for Visual Geolocalization*", for the Machine Learning and Deep Learning course @ Politecnico di Torino, A.Y. 2021/22. Please refer to the relative [report](https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition/blob/e3d87f3affe5ac569dafc9b720d79990d85e0e47/report/Project2_Group1_Report.pdf) for a complete description of the expertiment.
 
 ---
 
@@ -44,7 +44,7 @@ The work is composed by the following steps:
 4. Ensembles
 5. Multi-scale Testing
 
-For the sake of simplicity we provide a complete guide to run the the whole experiments in [deep_learning_techniques_for_visual_place_recognition.ipynb]().
+For the sake of simplicity we provide a complete guide to run the the whole experiments in [deep_learning_techniques_for_visual_place_recognition.ipynb](https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition/blob/e3d87f3affe5ac569dafc9b720d79990d85e0e47/jupyter_notebook_guide/deep_learning_techniques_for_visual_place_recognition.ipynb).
 
 ---
 Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
