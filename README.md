@@ -43,6 +43,8 @@ The work is composed by the following steps:
 3. Data Augmentation for Occlusions and Perspective Changes
 4. Ensembles
 5. Multi-scale Testing
+
 For the sake of simplicity we provide a complete guide to run the the whole experiments in [deep_learning_techniques_for_visual_place_recognition.ipynb]().
+
 ---
 Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
