@@ -47,4 +47,4 @@ The work is composed by the following steps:
 For the sake of simplicity we provide a complete guide to run the the whole experiments in [deep_learning_techniques_for_visual_place_recognition.ipynb](https://github.com/arcangeloC-137/deep_learning_techniques_for_visual_place_recognition/blob/main/jupyter_notebook_guide/deep_learning_techniques_for_visual_place_recognition.ipynb).
 
 ---
-Contributors to this project are: Atadjanov Olloshukur, Frigiola Arcangelo, and Scoleri Maria Rosa.
+Contributors to this project are: Atadjanov Olloshukur, [Frigiola Arcangelo](https://github.com/arcangeloC-137), and [Scoleri Maria Rosa](https://github.com/scoleri-mr).
